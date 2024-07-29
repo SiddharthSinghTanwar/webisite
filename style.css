@@ -6,6 +6,33 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+.navbar{
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.navbar li {
+  
+  display: inline;
+  margin-right: 10px;
+}
+
+.banner{
+  background-color: aliceblue;
+  color: #000;
+  margin-top: 0px;
+  margin-top :75px ;
+  text-align: center;
+  padding: 100px 0;
+}
+
+h1 {
+  /* center it */
+  text-align: center;
+}
+
 a {
   color: inherit;
   text-decoration: none;
