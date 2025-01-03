@@ -122,3 +122,11 @@ main {
     flex-direction: column;
   }
 }
+header {
+  margin-bottom: 0; /* Adjust or remove any bottom margin */
+}
+
+main {
+  margin-top: 0; /* Adjust or remove any top margin */
+  padding-top: 0; /* Adjust or remove any top padding */
+}
